@@ -1,0 +1,221 @@
+Transaction ID,Date,Product,Region,Price,Quantity,Category,Cost Price,Store Type,Manager,Revenue,Cost,Profit,Margin %
+T0001,2024-04-14,Vacuum Cleaner,West,617.49,5,Home,150,Suburban,Carlos Reyes,3087.45,750,2337.45,75.71
+T0002,2024-03-07,Smartphone,South,51.59,1,Electronics,600,Rural,Nina Patel,51.59,600,-548.41,-1063.02
+T0003,2024-05-20,Headphones,South,159.07,4,Electronics,40,Rural,Nina Patel,636.28,160,476.28,74.85
+T0004,2024-04-11,Monitor,West,709.28,3,Electronics,180,Suburban,Carlos Reyes,2127.84,540,1587.8400000000001,74.62
+T0005,2024-05-17,Headphones,West,474.02,3,Electronics,40,Suburban,Carlos Reyes,1422.06,120,1302.06,91.56
+T0006,2024-01-28,Air Fryer,East,645.81,3,Kitchen,90,Urban,Angela Smith,1937.4299999999998,270,1667.4299999999998,86.06
+T0007,2024-05-26,Microwave,West,976.31,5,Kitchen,120,Suburban,Carlos Reyes,4881.549999999999,600,4281.549999999999,87.71
+T0008,2024-05-08,Monitor,West,900.71,4,Electronics,180,Suburban,Carlos Reyes,3602.84,720,2882.84,80.02
+T0009,2024-02-03,Vacuum Cleaner,West,669.04,4,Home,150,Suburban,Carlos Reyes,2676.16,600,2076.16,77.58
+T0010,2024-02-04,Microwave,West,242.71,3,Kitchen,120,Suburban,Carlos Reyes,728.13,360,368.13,50.56
+T0011,2024-01-13,Headphones,East,209.01,5,Electronics,40,Urban,Angela Smith,1045.05,200,845.05,80.86
+T0012,2024-03-03,Air Fryer,West,204.33,2,Kitchen,90,Suburban,Carlos Reyes,408.66,180,228.66000000000003,55.95
+T0013,2024-06-11,Microwave,South,848.87,5,Kitchen,120,Rural,Nina Patel,4244.35,600,3644.3500000000004,85.86
+T0014,2024-05-03,Monitor,South,128.97,4,Electronics,180,Rural,Nina Patel,515.88,720,-204.12,-39.57
+T0015,2024-02-07,Desk Lamp,East,335.49,1,Home,25,Urban,Angela Smith,335.49,25,310.49,92.55
+T0016,2024-01-06,Smartphone,East,228.65,2,Electronics,600,Urban,Angela Smith,457.3,1200,-742.7,-162.41
+T0017,2024-04-24,Smartphone,East,949.39,2,Electronics,600,Urban,Angela Smith,1898.78,1200,698.78,36.8
+T0018,2024-02-08,Toaster,East,197.15,4,Kitchen,30,Urban,Angela Smith,788.6,120,668.6,84.78
+T0019,2024-01-01,Desk Lamp,West,45.9,3,Home,25,Suburban,Carlos Reyes,137.7,75,62.69999999999999,45.53
+T0020,2024-06-26,Laptop,West,947.23,5,Electronics,550,Suburban,Carlos Reyes,4736.15,2750,1986.1499999999996,41.94
+T0021,2024-03-01,Air Fryer,South,704.01,1,Kitchen,90,Rural,Nina Patel,704.01,90,614.01,87.22
+T0022,2024-01-03,Smartphone,South,495.14,3,Electronics,600,Rural,Nina Patel,1485.42,1800,-314.5799999999999,-21.18
+T0023,2024-06-10,Laptop,West,449.75,2,Electronics,550,Suburban,Carlos Reyes,899.5,1100,-200.5,-22.29
+T0024,2024-04-16,Desk Lamp,West,976.23,1,Home,25,Suburban,Carlos Reyes,976.23,25,951.23,97.44
+T0025,2024-03-25,Vacuum Cleaner,East,443.11,3,Home,150,Urban,Angela Smith,1329.33,450,879.3299999999999,66.15
+T0026,2024-05-02,Microwave,East,727.34,5,Kitchen,120,Urban,Angela Smith,3636.7000000000003,600,3036.7000000000003,83.5
+T0027,2024-03-01,Headphones,East,806.84,1,Electronics,40,Urban,Angela Smith,806.84,40,766.84,95.04
+T0028,2024-02-07,Air Fryer,East,711.17,5,Kitchen,90,Urban,Angela Smith,3555.85,450,3105.85,87.34
+T0029,2024-01-06,Smartphone,West,429.36,2,Electronics,600,Suburban,Carlos Reyes,858.72,1200,-341.28,-39.74
+T0030,2024-01-06,Headphones,East,787.57,1,Electronics,40,Urban,Angela Smith,787.57,40,747.57,94.92
+T0031,2024-04-08,Air Fryer,South,583.15,4,Kitchen,90,Rural,Nina Patel,2332.6,360,1972.6,84.57
+T0032,2024-06-22,Headphones,South,525.01,1,Electronics,40,Rural,Nina Patel,525.01,40,485.01,92.38
+T0033,2024-03-07,Laptop,East,467.91,3,Electronics,550,Urban,Angela Smith,1403.73,1650,-246.26999999999998,-17.54
+T0034,2024-04-05,Laptop,East,521.76,4,Electronics,550,Urban,Angela Smith,2087.04,2200,-112.96000000000004,-5.41
+T0035,2024-04-10,Laptop,West,745.24,3,Electronics,550,Suburban,Carlos Reyes,2235.7200000000003,1650,585.7200000000003,26.2
+T0036,2024-03-02,Toaster,South,207.21,5,Kitchen,30,Rural,Nina Patel,1036.05,150,886.05,85.52
+T0037,2024-02-16,Smartphone,West,934.36,2,Electronics,600,Suburban,Carlos Reyes,1868.72,1200,668.72,35.78
+T0038,2024-01-30,Smartphone,South,236.25,2,Electronics,600,Rural,Nina Patel,472.5,1200,-727.5,-153.97
+T0039,2024-06-22,Toaster,West,660.21,2,Kitchen,30,Suburban,Carlos Reyes,1320.42,60,1260.42,95.46
+T0040,2024-04-06,Vacuum Cleaner,West,214.72,5,Home,150,Suburban,Carlos Reyes,1073.6,750,323.5999999999999,30.14
+T0041,2024-06-11,Headphones,West,318.61,3,Electronics,40,Suburban,Carlos Reyes,955.83,120,835.83,87.45
+T0042,2024-05-03,Microwave,South,615.06,5,Kitchen,120,Rural,Nina Patel,3075.2999999999997,600,2475.2999999999997,80.49
+T0043,2024-06-29,Headphones,South,164.9,4,Electronics,40,Rural,Nina Patel,659.6,160,499.6,75.74
+T0044,2024-06-25,Toaster,West,669.93,1,Kitchen,30,Suburban,Carlos Reyes,669.93,30,639.93,95.52
+T0045,2024-01-03,Microwave,East,449.86,1,Kitchen,120,Urban,Angela Smith,449.86,120,329.86,73.33
+T0046,2024-06-01,Laptop,South,386.18,3,Electronics,550,Rural,Nina Patel,1158.54,1650,-491.46000000000004,-42.42
+T0047,2024-03-12,Toaster,East,76.38,4,Kitchen,30,Urban,Angela Smith,305.52,120,185.51999999999998,60.72
+T0048,2024-04-16,Toaster,West,53.11,2,Kitchen,30,Suburban,Carlos Reyes,106.22,60,46.22,43.51
+T0049,2024-06-21,Headphones,East,358.05,5,Electronics,40,Urban,Angela Smith,1790.25,200,1590.25,88.83
+T0050,2024-04-17,Monitor,South,445.98,4,Electronics,180,Rural,Nina Patel,1783.92,720,1063.92,59.64
+T0051,2024-04-19,Monitor,South,210.59,3,Electronics,180,Rural,Nina Patel,631.77,540,91.76999999999998,14.53
+T0052,2024-06-22,Monitor,West,449.93,4,Electronics,180,Suburban,Carlos Reyes,1799.72,720,1079.72,59.99
+T0053,2024-04-24,Vacuum Cleaner,South,363.27,4,Home,150,Rural,Nina Patel,1453.08,600,853.0799999999999,58.71
+T0054,2024-03-14,Headphones,East,235.99,1,Electronics,40,Urban,Angela Smith,235.99,40,195.99,83.05
+T0055,2024-06-01,Smartphone,West,813.6,3,Electronics,600,Suburban,Carlos Reyes,2440.8,1800,640.8000000000002,26.25
+T0056,2024-03-26,Desk Lamp,South,736.59,3,Home,25,Rural,Nina Patel,2209.77,75,2134.77,96.61
+T0057,2024-05-13,Desk Lamp,South,56.14,3,Home,25,Rural,Nina Patel,168.42000000000002,75,93.42000000000002,55.47
+T0058,2024-03-31,Toaster,West,371.12,5,Kitchen,30,Suburban,Carlos Reyes,1855.6,150,1705.6,91.92
+T0059,2024-04-26,Blender,South,200.66,2,Kitchen,60,Rural,Nina Patel,401.32,120,281.32,70.1
+T0060,2024-04-08,Air Fryer,West,952.66,5,Kitchen,90,Suburban,Carlos Reyes,4763.3,450,4313.3,90.55
+T0061,2024-01-16,Toaster,South,574.06,1,Kitchen,30,Rural,Nina Patel,574.06,30,544.06,94.77
+T0062,2024-06-27,Air Fryer,West,542.86,4,Kitchen,90,Suburban,Carlos Reyes,2171.44,360,1811.44,83.42
+T0063,2024-03-26,Smartphone,East,139.03,4,Electronics,600,Urban,Angela Smith,556.12,2400,-1843.88,-331.56
+T0064,2024-05-03,Monitor,East,881.52,1,Electronics,180,Urban,Angela Smith,881.52,180,701.52,79.58
+T0065,2024-05-24,Toaster,West,910.83,5,Kitchen,30,Suburban,Carlos Reyes,4554.150000000001,150,4404.150000000001,96.71
+T0066,2024-06-08,Smartphone,South,502.19,5,Electronics,600,Rural,Nina Patel,2510.95,3000,-489.0500000000002,-19.48
+T0067,2024-04-04,Microwave,East,445.45,1,Kitchen,120,Urban,Angela Smith,445.45,120,325.45,73.06
+T0068,2024-05-03,Blender,South,551.87,4,Kitchen,60,Rural,Nina Patel,2207.48,240,1967.48,89.13
+T0069,2024-01-03,Smartphone,East,975.33,1,Electronics,600,Urban,Angela Smith,975.33,600,375.33000000000004,38.48
+T0070,2024-01-19,Smartphone,East,260.08,5,Electronics,600,Urban,Angela Smith,1300.3999999999999,3000,-1699.6000000000001,-130.7
+T0071,2024-04-13,Laptop,South,97.81,3,Electronics,550,Rural,Nina Patel,293.43,1650,-1356.57,-462.31
+T0072,2024-02-28,Desk Lamp,West,484.59,5,Home,25,Suburban,Carlos Reyes,2422.95,125,2297.95,94.84
+T0073,2024-04-14,Microwave,East,589.34,1,Kitchen,120,Urban,Angela Smith,589.34,120,469.34000000000003,79.64
+T0074,2024-04-11,Blender,South,870.1,4,Kitchen,60,Rural,Nina Patel,3480.4,240,3240.4,93.1
+T0075,2024-04-20,Vacuum Cleaner,East,407.28,2,Home,150,Urban,Angela Smith,814.56,300,514.56,63.17
+T0076,2024-02-22,Toaster,East,863.55,5,Kitchen,30,Urban,Angela Smith,4317.75,150,4167.75,96.53
+T0077,2024-06-21,Blender,East,219.87,4,Kitchen,60,Urban,Angela Smith,879.48,240,639.48,72.71
+T0078,2024-06-06,Air Fryer,South,137.32,1,Kitchen,90,Rural,Nina Patel,137.32,90,47.31999999999999,34.46
+T0079,2024-06-24,Desk Lamp,South,481.26,4,Home,25,Rural,Nina Patel,1925.04,100,1825.04,94.81
+T0080,2024-03-24,Air Fryer,East,663.1,4,Kitchen,90,Urban,Angela Smith,2652.4,360,2292.4,86.43
+T0081,2024-03-11,Smartphone,South,323.52,3,Electronics,600,Rural,Nina Patel,970.56,1800,-829.44,-85.46
+T0082,2024-06-21,Toaster,South,811.43,5,Kitchen,30,Rural,Nina Patel,4057.1499999999996,150,3907.1499999999996,96.3
+T0083,2024-05-29,Desk Lamp,South,625.15,1,Home,25,Rural,Nina Patel,625.15,25,600.15,96.0
+T0084,2024-02-12,Toaster,East,662.44,5,Kitchen,30,Urban,Angela Smith,3312.2000000000003,150,3162.2000000000003,95.47
+T0085,2024-02-25,Monitor,East,725.11,2,Electronics,180,Urban,Angela Smith,1450.22,360,1090.22,75.18
+T0086,2024-06-06,Monitor,West,882.33,5,Electronics,180,Suburban,Carlos Reyes,4411.650000000001,900,3511.6500000000005,79.6
+T0087,2024-06-28,Blender,West,445.92,5,Kitchen,60,Suburban,Carlos Reyes,2229.6,300,1929.6,86.54
+T0088,2024-01-24,Vacuum Cleaner,South,168.45,2,Home,150,Rural,Nina Patel,336.9,300,36.89999999999998,10.95
+T0089,2024-02-22,Headphones,West,510.57,5,Electronics,40,Suburban,Carlos Reyes,2552.85,200,2352.85,92.17
+T0090,2024-06-09,Toaster,West,949.89,5,Kitchen,30,Suburban,Carlos Reyes,4749.45,150,4599.45,96.84
+T0091,2024-01-08,Microwave,East,371.79,5,Kitchen,120,Urban,Angela Smith,1858.95,600,1258.95,67.72
+T0092,2024-02-03,Air Fryer,South,227.73,4,Kitchen,90,Rural,Nina Patel,910.92,360,550.92,60.48
+T0093,2024-05-16,Microwave,West,522.99,2,Kitchen,120,Suburban,Carlos Reyes,1045.98,240,805.98,77.06
+T0094,2024-04-28,Smartphone,East,477.46,4,Electronics,600,Urban,Angela Smith,1909.84,2400,-490.1600000000001,-25.66
+T0095,2024-03-09,Smartphone,East,830.65,1,Electronics,600,Urban,Angela Smith,830.65,600,230.64999999999998,27.77
+T0096,2024-05-18,Microwave,East,166.63,5,Kitchen,120,Urban,Angela Smith,833.15,600,233.14999999999998,27.98
+T0097,2024-04-04,Toaster,South,908.87,1,Kitchen,30,Rural,Nina Patel,908.87,30,878.87,96.7
+T0098,2024-01-11,Blender,East,441.87,2,Kitchen,60,Urban,Angela Smith,883.74,120,763.74,86.42
+T0099,2024-05-29,Microwave,West,177.69,5,Kitchen,120,Suburban,Carlos Reyes,888.45,600,288.45000000000005,32.47
+T0100,2024-02-18,Vacuum Cleaner,West,288.31,3,Home,150,Suburban,Carlos Reyes,864.9300000000001,450,414.93000000000006,47.97
+T0101,2024-06-15,Desk Lamp,East,965.66,3,Home,25,Urban,Angela Smith,2896.98,75,2821.98,97.41
+T0102,2024-05-04,Vacuum Cleaner,East,685.0,4,Home,150,Urban,Angela Smith,2740.0,600,2140.0,78.1
+T0103,2024-06-11,Desk Lamp,East,444.89,1,Home,25,Urban,Angela Smith,444.89,25,419.89,94.38
+T0104,2024-06-05,Smartphone,West,751.0,4,Electronics,600,Suburban,Carlos Reyes,3004.0,2400,604.0,20.11
+T0105,2024-03-18,Toaster,West,211.29,1,Kitchen,30,Suburban,Carlos Reyes,211.29,30,181.29,85.8
+T0106,2024-01-30,Vacuum Cleaner,West,242.83,3,Home,150,Suburban,Carlos Reyes,728.49,450,278.49,38.23
+T0107,2024-02-09,Air Fryer,East,803.73,2,Kitchen,90,Urban,Angela Smith,1607.46,180,1427.46,88.8
+T0108,2024-01-10,Toaster,West,806.95,1,Kitchen,30,Suburban,Carlos Reyes,806.95,30,776.95,96.28
+T0109,2024-02-13,Air Fryer,East,775.7,4,Kitchen,90,Urban,Angela Smith,3102.8,360,2742.8,88.4
+T0110,2024-03-01,Toaster,West,346.8,5,Kitchen,30,Suburban,Carlos Reyes,1734.0,150,1584.0,91.35
+T0111,2024-03-07,Smartphone,West,160.89,5,Electronics,600,Suburban,Carlos Reyes,804.4499999999999,3000,-2195.55,-272.93
+T0112,2024-04-27,Toaster,West,58.62,2,Kitchen,30,Suburban,Carlos Reyes,117.24,60,57.239999999999995,48.82
+T0113,2024-03-05,Laptop,East,812.77,1,Electronics,550,Urban,Angela Smith,812.77,550,262.77,32.33
+T0114,2024-06-04,Headphones,West,615.1,1,Electronics,40,Suburban,Carlos Reyes,615.1,40,575.1,93.5
+T0115,2024-01-07,Smartphone,South,362.54,3,Electronics,600,Rural,Nina Patel,1087.6200000000001,1800,-712.3799999999999,-65.5
+T0116,2024-01-05,Laptop,South,539.11,4,Electronics,550,Rural,Nina Patel,2156.44,2200,-43.559999999999945,-2.02
+T0117,2024-01-23,Smartphone,West,440.43,2,Electronics,600,Suburban,Carlos Reyes,880.86,1200,-319.14,-36.23
+T0118,2024-02-06,Toaster,West,687.24,3,Kitchen,30,Suburban,Carlos Reyes,2061.7200000000003,90,1971.7200000000003,95.63
+T0119,2024-01-09,Laptop,West,313.68,5,Electronics,550,Suburban,Carlos Reyes,1568.4,2750,-1181.6,-75.34
+T0120,2024-03-09,Laptop,East,490.91,1,Electronics,550,Urban,Angela Smith,490.91,550,-59.089999999999975,-12.04
+T0121,2024-01-30,Smartphone,South,503.42,4,Electronics,600,Rural,Nina Patel,2013.68,2400,-386.31999999999994,-19.18
+T0122,2024-03-14,Smartphone,East,829.57,3,Electronics,600,Urban,Angela Smith,2488.71,1800,688.71,27.67
+T0123,2024-01-06,Blender,East,511.69,3,Kitchen,60,Urban,Angela Smith,1535.07,180,1355.07,88.27
+T0124,2024-02-29,Laptop,West,652.71,2,Electronics,550,Suburban,Carlos Reyes,1305.42,1100,205.42000000000007,15.74
+T0125,2024-01-31,Monitor,East,471.43,2,Electronics,180,Urban,Angela Smith,942.86,360,582.86,61.82
+T0126,2024-02-23,Laptop,South,393.09,3,Electronics,550,Rural,Nina Patel,1179.27,1650,-470.73,-39.92
+T0127,2024-01-20,Vacuum Cleaner,South,187.94,3,Home,150,Rural,Nina Patel,563.8199999999999,450,113.81999999999994,20.19
+T0128,2024-06-08,Smartphone,South,611.27,4,Electronics,600,Rural,Nina Patel,2445.08,2400,45.07999999999993,1.84
+T0129,2024-06-03,Monitor,South,369.56,3,Electronics,180,Rural,Nina Patel,1108.68,540,568.6800000000001,51.29
+T0130,2024-04-16,Desk Lamp,East,638.95,1,Home,25,Urban,Angela Smith,638.95,25,613.95,96.09
+T0131,2024-04-22,Vacuum Cleaner,South,252.73,5,Home,150,Rural,Nina Patel,1263.6499999999999,750,513.6499999999999,40.65
+T0132,2024-02-26,Laptop,West,621.93,1,Electronics,550,Suburban,Carlos Reyes,621.93,550,71.92999999999995,11.57
+T0133,2024-01-14,Air Fryer,East,70.0,3,Kitchen,90,Urban,Angela Smith,210.0,270,-60.0,-28.57
+T0134,2024-03-04,Laptop,South,287.14,3,Electronics,550,Rural,Nina Patel,861.42,1650,-788.58,-91.54
+T0135,2024-06-16,Smartphone,East,609.5,5,Electronics,600,Urban,Angela Smith,3047.5,3000,47.5,1.56
+T0136,2024-01-03,Vacuum Cleaner,South,311.3,5,Home,150,Rural,Nina Patel,1556.5,750,806.5,51.81
+T0137,2024-03-17,Monitor,South,910.68,1,Electronics,180,Rural,Nina Patel,910.68,180,730.68,80.23
+T0138,2024-04-22,Toaster,West,651.78,3,Kitchen,30,Suburban,Carlos Reyes,1955.34,90,1865.34,95.4
+T0139,2024-06-03,Vacuum Cleaner,South,143.53,1,Home,150,Rural,Nina Patel,143.53,150,-6.469999999999999,-4.51
+T0140,2024-04-26,Smartphone,South,577.19,2,Electronics,600,Rural,Nina Patel,1154.38,1200,-45.61999999999989,-3.95
+T0141,2024-05-20,Headphones,South,144.37,4,Electronics,40,Rural,Nina Patel,577.48,160,417.48,72.29
+T0142,2024-05-09,Smartphone,West,826.17,1,Electronics,600,Suburban,Carlos Reyes,826.17,600,226.16999999999996,27.38
+T0143,2024-02-29,Toaster,West,146.09,1,Kitchen,30,Suburban,Carlos Reyes,146.09,30,116.09,79.46
+T0144,2024-05-13,Smartphone,West,551.05,3,Electronics,600,Suburban,Carlos Reyes,1653.1499999999999,1800,-146.85000000000014,-8.88
+T0145,2024-04-17,Monitor,East,262.42,3,Electronics,180,Urban,Angela Smith,787.26,540,247.26,31.41
+T0146,2024-02-20,Laptop,West,162.29,4,Electronics,550,Suburban,Carlos Reyes,649.16,2200,-1550.8400000000001,-238.9
+T0147,2024-02-12,Headphones,West,900.88,3,Electronics,40,Suburban,Carlos Reyes,2702.64,120,2582.64,95.56
+T0148,2024-04-14,Toaster,East,554.48,2,Kitchen,30,Urban,Angela Smith,1108.96,60,1048.96,94.59
+T0149,2024-01-30,Microwave,South,571.35,2,Kitchen,120,Rural,Nina Patel,1142.7,240,902.7,79.0
+T0150,2024-02-27,Laptop,South,624.83,2,Electronics,550,Rural,Nina Patel,1249.66,1100,149.66000000000008,11.98
+T0151,2024-02-05,Blender,South,343.75,3,Kitchen,60,Rural,Nina Patel,1031.25,180,851.25,82.55
+T0152,2024-06-09,Air Fryer,West,287.85,2,Kitchen,90,Suburban,Carlos Reyes,575.7,180,395.70000000000005,68.73
+T0153,2024-05-16,Toaster,East,766.44,5,Kitchen,30,Urban,Angela Smith,3832.2000000000003,150,3682.2000000000003,96.09
+T0154,2024-06-09,Toaster,East,211.86,2,Kitchen,30,Urban,Angela Smith,423.72,60,363.72,85.84
+T0155,2024-02-23,Microwave,South,327.39,1,Kitchen,120,Rural,Nina Patel,327.39,120,207.39,63.35
+T0156,2024-06-02,Laptop,East,567.92,4,Electronics,550,Urban,Angela Smith,2271.68,2200,71.67999999999984,3.16
+T0157,2024-01-31,Desk Lamp,South,131.6,1,Home,25,Rural,Nina Patel,131.6,25,106.6,81.0
+T0158,2024-02-12,Air Fryer,South,400.58,4,Kitchen,90,Rural,Nina Patel,1602.32,360,1242.32,77.53
+T0159,2024-03-19,Smartphone,South,719.63,3,Electronics,600,Rural,Nina Patel,2158.89,1800,358.8899999999999,16.62
+T0160,2024-04-30,Smartphone,South,598.94,4,Electronics,600,Rural,Nina Patel,2395.76,2400,-4.239999999999782,-0.18
+T0161,2024-02-05,Microwave,East,693.68,1,Kitchen,120,Urban,Angela Smith,693.68,120,573.68,82.7
+T0162,2024-05-30,Laptop,East,406.41,1,Electronics,550,Urban,Angela Smith,406.41,550,-143.58999999999997,-35.33
+T0163,2024-05-18,Laptop,East,508.83,5,Electronics,550,Urban,Angela Smith,2544.15,2750,-205.8499999999999,-8.09
+T0164,2024-02-17,Laptop,West,555.64,2,Electronics,550,Suburban,Carlos Reyes,1111.28,1100,11.279999999999973,1.02
+T0165,2024-03-12,Air Fryer,South,333.73,5,Kitchen,90,Rural,Nina Patel,1668.65,450,1218.65,73.03
+T0166,2024-06-04,Headphones,South,785.91,3,Electronics,40,Rural,Nina Patel,2357.73,120,2237.73,94.91
+T0167,2024-01-27,Microwave,West,803.11,5,Kitchen,120,Suburban,Carlos Reyes,4015.55,600,3415.55,85.06
+T0168,2024-03-20,Laptop,South,519.33,1,Electronics,550,Rural,Nina Patel,519.33,550,-30.66999999999996,-5.91
+T0169,2024-03-18,Microwave,West,308.65,5,Kitchen,120,Suburban,Carlos Reyes,1543.25,600,943.25,61.12
+T0170,2024-06-17,Toaster,West,980.39,1,Kitchen,30,Suburban,Carlos Reyes,980.39,30,950.39,96.94
+T0171,2024-05-17,Headphones,East,403.8,1,Electronics,40,Urban,Angela Smith,403.8,40,363.8,90.09
+T0172,2024-04-07,Laptop,East,982.73,4,Electronics,550,Urban,Angela Smith,3930.92,2200,1730.92,44.03
+T0173,2024-06-26,Vacuum Cleaner,West,461.79,1,Home,150,Suburban,Carlos Reyes,461.79,150,311.79,67.52
+T0174,2024-06-28,Blender,West,369.35,4,Kitchen,60,Suburban,Carlos Reyes,1477.4,240,1237.4,83.76
+T0175,2024-01-26,Laptop,East,208.71,3,Electronics,550,Urban,Angela Smith,626.13,1650,-1023.87,-163.52
+T0176,2024-06-27,Vacuum Cleaner,East,498.51,5,Home,150,Urban,Angela Smith,2492.55,750,1742.5500000000002,69.91
+T0177,2024-03-12,Desk Lamp,South,216.23,2,Home,25,Rural,Nina Patel,432.46,50,382.46,88.44
+T0178,2024-01-31,Microwave,West,383.59,2,Kitchen,120,Suburban,Carlos Reyes,767.18,240,527.18,68.72
+T0179,2024-02-16,Desk Lamp,West,573.64,5,Home,25,Suburban,Carlos Reyes,2868.2,125,2743.2,95.64
+T0180,2024-05-20,Laptop,South,343.2,1,Electronics,550,Rural,Nina Patel,343.2,550,-206.8,-60.26
+T0181,2024-05-29,Blender,West,43.34,3,Kitchen,60,Suburban,Carlos Reyes,130.02,180,-49.97999999999999,-38.44
+T0182,2024-03-25,Air Fryer,South,785.83,4,Kitchen,90,Rural,Nina Patel,3143.32,360,2783.32,88.55
+T0183,2024-03-30,Microwave,East,263.64,5,Kitchen,120,Urban,Angela Smith,1318.1999999999998,600,718.1999999999998,54.48
+T0184,2024-03-01,Smartphone,East,889.96,5,Electronics,600,Urban,Angela Smith,4449.8,3000,1449.8000000000002,32.58
+T0185,2024-06-07,Toaster,East,647.41,1,Kitchen,30,Urban,Angela Smith,647.41,30,617.41,95.37
+T0186,2024-06-29,Desk Lamp,South,795.79,2,Home,25,Rural,Nina Patel,1591.58,50,1541.58,96.86
+T0187,2024-06-25,Laptop,East,114.38,3,Electronics,550,Urban,Angela Smith,343.14,1650,-1306.8600000000001,-380.85
+T0188,2024-01-24,Toaster,East,759.93,2,Kitchen,30,Urban,Angela Smith,1519.86,60,1459.86,96.05
+T0189,2024-04-19,Laptop,East,110.78,1,Electronics,550,Urban,Angela Smith,110.78,550,-439.22,-396.48
+T0190,2024-01-05,Microwave,East,832.55,4,Kitchen,120,Urban,Angela Smith,3330.2,480,2850.2,85.59
+T0191,2024-06-05,Toaster,South,758.19,4,Kitchen,30,Rural,Nina Patel,3032.76,120,2912.76,96.04
+T0192,2024-04-28,Toaster,South,550.03,2,Kitchen,30,Rural,Nina Patel,1100.06,60,1040.06,94.55
+T0193,2024-03-19,Vacuum Cleaner,West,354.04,3,Home,150,Suburban,Carlos Reyes,1062.1200000000001,450,612.1200000000001,57.63
+T0194,2024-02-19,Monitor,East,258.86,5,Electronics,180,Urban,Angela Smith,1294.3000000000002,900,394.3000000000002,30.46
+T0195,2024-02-03,Laptop,South,185.46,2,Electronics,550,Rural,Nina Patel,370.92,1100,-729.0799999999999,-196.56
+T0196,2024-05-14,Smartphone,East,950.46,2,Electronics,600,Urban,Angela Smith,1900.92,1200,700.9200000000001,36.87
+T0197,2024-05-17,Blender,South,70.7,2,Kitchen,60,Rural,Nina Patel,141.4,120,21.400000000000006,15.13
+T0198,2024-02-09,Headphones,West,572.35,5,Electronics,40,Suburban,Carlos Reyes,2861.75,200,2661.75,93.01
+T0199,2024-03-30,Smartphone,West,249.57,5,Electronics,600,Suburban,Carlos Reyes,1247.85,3000,-1752.15,-140.41
+T0200,2024-05-30,Smartphone,East,89.16,3,Electronics,600,Urban,Angela Smith,267.48,1800,-1532.52,-572.95
+T0201,2024-03-19,Blender,West,323.02,5,Kitchen,60,Suburban,Carlos Reyes,1615.1,300,1315.1,81.43
+T0202,2024-04-03,Laptop,East,714.49,1,Electronics,550,Urban,Angela Smith,714.49,550,164.49,23.02
+T0203,2024-03-02,Headphones,South,215.66,3,Electronics,40,Rural,Nina Patel,646.98,120,526.98,81.45
+T0204,2024-05-19,Laptop,East,231.78,2,Electronics,550,Urban,Angela Smith,463.56,1100,-636.44,-137.29
+T0205,2024-05-03,Laptop,East,80.78,2,Electronics,550,Urban,Angela Smith,161.56,1100,-938.44,-580.86
+T0206,2024-06-04,Laptop,South,729.95,4,Electronics,550,Rural,Nina Patel,2919.8,2200,719.8000000000002,24.65
+T0207,2024-06-20,Smartphone,South,196.34,2,Electronics,600,Rural,Nina Patel,392.68,1200,-807.3199999999999,-205.59
+T0208,2024-05-25,Monitor,East,868.47,4,Electronics,180,Urban,Angela Smith,3473.88,720,2753.88,79.27
+T0209,2024-04-26,Air Fryer,West,540.81,1,Kitchen,90,Suburban,Carlos Reyes,540.81,90,450.80999999999995,83.36
+T0210,2024-04-12,Microwave,West,456.43,5,Kitchen,120,Suburban,Carlos Reyes,2282.15,600,1682.15,73.71
+T0211,2024-04-08,Desk Lamp,West,283.3,3,Home,25,Suburban,Carlos Reyes,849.9000000000001,75,774.9000000000001,91.18
+T0212,2024-02-07,Toaster,South,667.62,1,Kitchen,30,Rural,Nina Patel,667.62,30,637.62,95.51
+T0213,2024-04-29,Air Fryer,South,905.45,3,Kitchen,90,Rural,Nina Patel,2716.3500000000004,270,2446.3500000000004,90.06
+T0214,2024-05-09,Smartphone,West,765.42,4,Electronics,600,Suburban,Carlos Reyes,3061.68,2400,661.6799999999998,21.61
+T0215,2024-03-26,Air Fryer,South,778.41,5,Kitchen,90,Rural,Nina Patel,3892.0499999999997,450,3442.0499999999997,88.44
+T0216,2024-01-17,Desk Lamp,East,446.13,5,Home,25,Urban,Angela Smith,2230.65,125,2105.65,94.4
+T0217,2024-04-07,Headphones,West,973.76,4,Electronics,40,Suburban,Carlos Reyes,3895.04,160,3735.04,95.89
+T0218,2024-05-01,Desk Lamp,West,901.66,2,Home,25,Suburban,Carlos Reyes,1803.32,50,1753.32,97.23
+T0219,2024-04-20,Microwave,East,510.36,5,Kitchen,120,Urban,Angela Smith,2551.8,600,1951.8000000000002,76.49
+T0220,2024-03-01,Vacuum Cleaner,East,543.45,1,Home,150,Urban,Angela Smith,543.45,150,393.45000000000005,72.4
